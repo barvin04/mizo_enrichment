@@ -4,3 +4,5 @@ Exploring News Summarization and Enrichment in a Highly Resource-Scarce Indian L
 Work accepted in WILDRE-7 workshop at LREC-COLING 2024.
 
 Code coming soon
+
+Data set link : https://drive.google.com/drive/folders/1-7LDUFnB-IuaCUb_eVXDCCnoz1RvXPCs  
